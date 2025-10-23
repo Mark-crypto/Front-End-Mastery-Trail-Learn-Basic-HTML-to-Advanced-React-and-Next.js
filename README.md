@@ -2,9 +2,9 @@
 
 Welcome to **Frontend Journey** — a free, community-driven learning journey where we take absolute beginners and guide them step by step through the world of web development: **HTML → CSS → JavaScript → React → TypeScript → Next.js**.
 
-<p align="center">
-  <img src="https://github.com/Mark-crypto/Front-End-Mastery-Trail-Learn-Basic-HTML-to-Advanced-React-and-Next.js/blob/main/assets/images/flowchart.png" alt="Course Repository Guide" width="700">
-</p>
+**Need help navigating this repository?**  
+For detailed instructions on how to access and use the course materials, click below 👇  
+👉 [View the full instructions here](./INSTRUCTIONS.md)
 
 Whether you’re a curious beginner, a career switcher or someone brushing up their skills — this is your **launchpad into modern frontend development**. The best part? It’s 100% **free and open-source**.
 
